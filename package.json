@@ -1,0 +1,9 @@
+{
+  "name": "babylon-tests",
+  "version": "0.1.0",
+  "description": "Testing a game engine",
+  "main": "index.js",
+  "repository": "https://github.com/fczuardi/babylon-tests.git",
+  "author": "Fabricio C Zuardi",
+  "license": "AGPL-3"
+}
