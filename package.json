@@ -5,5 +5,15 @@
   "main": "index.js",
   "repository": "https://github.com/fczuardi/babylon-tests.git",
   "author": "Fabricio C Zuardi",
-  "license": "AGPL-3"
+  "license": "AGPL-3",
+  "scripts": {
+    "start": "bankai index.js"
+  },
+  "devDependencies": {
+    "bankai": "^5.2.1"
+  },
+  "dependencies": {
+    "babylonjs": "^2.5.0",
+    "bel": "^4.5.1"
+  }
 }
